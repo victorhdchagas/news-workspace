@@ -5,9 +5,9 @@ Projeto front-end com finalidade de exibir autores, titulo e descrição das not
 ### Como executar?
 ```bash
  git clone https://github.com/victorhdchagas/tnm-mobile.git news
- npm install
+ pnpm install
  cd ./news
- npm run dev
+ pnpm run dev
 ```
 
 
