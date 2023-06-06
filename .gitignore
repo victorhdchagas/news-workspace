@@ -1,3 +1,4 @@
 news/node_modules
 news-api/node_modules
 news-api/.env
+news-api/dist
